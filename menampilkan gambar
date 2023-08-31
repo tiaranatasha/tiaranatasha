@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <title>Gambar</title>
+  </head>
+  <body>
+    <h2>Menampilkan Gambar</h2>
+    <p>
+      <img
+        src="d:\sepeda.jpg"
+        align="top"
+        width="150px"
+        style="margin-right: 20px"
+      />
+     
+    </p>
+
+    <p>
+      <img
+        src="d:\images.jpg"
+        align="middle"
+        width="150px"
+        style="margin-right: 20px"
+      />
+    </p>
+
+    <p>
+      <img
+        src="d:\download.jpg"
+        align="bottom"
+        width="150px"
+        style="margin-right: 20px"
+      />
+     
+    </p>
+  </body>
+</html>
